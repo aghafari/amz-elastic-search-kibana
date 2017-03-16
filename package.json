@@ -1,0 +1,19 @@
+{
+  "name": "ashkan",
+  "version": "1.0.0",
+  "description": "cs 499 assignment a4",
+  "main": "expresstut.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "express-handlebars": "^3.0.0",
+    "request": "^2.81.0",
+    "xml2js": "^0.4.17",
+    "elasticsearch": "^12.1.3",
+    "request": "^2.81.0"
+  }
+}
